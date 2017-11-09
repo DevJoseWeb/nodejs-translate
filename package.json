@@ -61,7 +61,7 @@
     "propprop": "^0.3.0"
   },
   "devDependencies": {
-    "@google-cloud/nodejs-repo-tools": "^2.1.0",
+    "@google-cloud/nodejs-repo-tools": "^2.1.2",
     "async": "^2.5.0",
     "codecov": "^3.0.0",
     "eslint": "^4.9.0",
